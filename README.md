@@ -29,7 +29,7 @@ ____________________
 
 # Known Issues
 ____________________
-1. The Sound, Trackpad and keyboard may not load in the boot, if this happens, reboot the computer to fix
+1. The Sound, Trackpad and keyboard may not load on boot, if this happens, reboot the computer to fix
 2. The Trackpad Gestures can't work because its stuck on the Mouse Emulation mode, You can't scroll with two fingers
 ____________________
 
