@@ -5,24 +5,24 @@ This is a hackintosh EFI working on macOS Ventura for the Dell G3 3500
 
 Working Things
 ____________________
-WiFi
-iGPU (Intel UHD Graphics 630)
-Trackpad (Mouse Emulation Mode Only)
-Sound
-Display Brightness and Full Resolution
-Keyboard Backlight
-Keyboard Sound Buttons
-Keyboard Media Buttons
+WiFi,
+iGPU (Intel UHD Graphics 630),
+Trackpad (Mouse Emulation Mode Only),
+Sound,
+Display Brightness and Full Resolution,
+Keyboard Backlight,
+Keyboard Sound Buttons,
+Keyboard Media Buttons,
 ____________________
 
 Not Working Things
 ____________________
-Bluetooth
-Microphone
-Keyboard Brightness Buttons
-dGPU
-AirDrop
-Fan Control (this will make the g3 a loud boi)
+Bluetooth,
+Microphone,
+Keyboard Brightness Buttons,
+dGPU,
+AirDrop,
+Fan Control (this will make the g3 a loud boi),
 ____________________
 
 Known Issues
