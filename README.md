@@ -40,7 +40,7 @@ ScreenShot Session!
 Idle Desktop
 
 ![image](https://user-images.githubusercontent.com/85531638/205419275-74183809-6de6-4717-a9f7-9798e5ddec74.png)
-Stage Manager Enable With Desktop
+Stage Manager Enabled With Desktop
 
 ![image](https://user-images.githubusercontent.com/85531638/205419325-7526b021-a3b5-4722-b3ad-18a218eff913.png)
 Redesigned Settings
