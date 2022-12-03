@@ -1,5 +1,6 @@
-## Dell G3 3500 Ventura EFI
-This is a hackintosh EFI working on macOS Ventura for the Dell G3 3500
+## Dell G3 Hackintura EFI
+1. if this name is bad, sorry i don't have a creative mind
+2. This is a hackintosh EFI working on macOS Ventura for the Dell G3 3500
 
 # THIS EFI IS ON ALPHA, EXPECT SOME BUGS!!!!!!!!!!
 
