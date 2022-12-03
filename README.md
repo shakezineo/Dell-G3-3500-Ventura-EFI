@@ -31,3 +31,19 @@ The Sound, Trackpad and keyboard can not load in the boot, if this happens, rebo
 ____________________
 
 # To Download it Go to the Releases Page!!!
+
+____________________
+
+ScreenShot Session!
+
+![image](https://user-images.githubusercontent.com/85531638/205419150-0ed26e28-cdc0-40e2-902f-332aae97247e.png)
+Idle Desktop
+
+![image](https://user-images.githubusercontent.com/85531638/205419275-74183809-6de6-4717-a9f7-9798e5ddec74.png)
+Stage Manager Enable With Desktop
+
+![image](https://user-images.githubusercontent.com/85531638/205419325-7526b021-a3b5-4722-b3ad-18a218eff913.png)
+Redesigned Settings
+____________________
+
+The End!
