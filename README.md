@@ -31,7 +31,7 @@ ____________________
 ____________________
 1. The Sound, Trackpad and keyboard may not load on boot, if this happens, reboot the computer to fix
 2. The Trackpad Gestures can't work because its stuck on the Mouse Emulation mode, You can't scroll with two fingers
-3. After Plugged to the AC Charger, The battery can take from 15 seconds up to 1 hour to start charging
+3. After Plugged to the AC Charger, The battery can take from 15 seconds to 1 hour to start charging
 ____________________
 
 # To Download it Go to the Releases Page!!!
